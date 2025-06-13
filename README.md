@@ -1,4 +1,4 @@
-![behold the header image](https://beyondbezier.ch/media/pages/home/d9dd23b3e7-1746002072/bb-intro-2.svg)
+![behold the header image](assets/bb-intro.png)
 
 In the age of early digital type, several methods were explored to draw letterforms. One of them, the Bézier spline, an algorithm that generates curves with a small quantity of data, has the crucial advantage of sparing computer memory and processing resources. As a result, drawing type with Bézier curves became the industry standard, and remains so today. This project aims to question and reevaluate this standard, to move beyond established trends, and to develop innovative, liberating ideas by exploring alternative methods of drawing curves and letterforms.
 
